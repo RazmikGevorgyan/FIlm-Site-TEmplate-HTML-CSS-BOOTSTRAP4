@@ -1,0 +1,44 @@
+body{
+	background-color: black!important;
+}
+.container-fluid{
+	padding: 0px;
+	margin: 0px;
+	background-color: black;
+}
+.navbar{
+  height: 70px!important;
+  background-color: black;
+}
+ul.navbar-nav li.nav-item a.nav-link {
+  background-color: black!important;
+}
+.navbar-toggler img{
+	height: 30px!important;
+	width: 30px!important;
+}
+.navbar-brand img{
+	height: 50px;
+	width: 100px;
+}
+.navbar-nav li a{
+	color: white;
+	font-size: 17px;
+}
+.navbar-nav li a:hover{
+	color:orange;
+}
+.card{
+	background-color: black!important;
+}
+.card img{
+   height: 400px;
+}
+.card img:hover{
+   opacity: 0.5;
+}
+.section{
+	position: flex;
+	width: 90%;
+	height: 90%;
+}

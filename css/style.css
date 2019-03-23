@@ -1,0 +1,74 @@
+.con{
+padding: 0px;
+margin:0px;
+height: 550px;
+width: 100%;
+background-image: url(https://i.gifer.com/embedded/download/KuHI.gif);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.cont{
+	background-color: black;
+}
+.navbar{
+  height: 70px!important;
+  background-color: rgba(0, 0, 0, 0.3)!important;
+}
+.navbar-toggler img{
+	height: 30px!important;
+	width: 30px!important;
+}
+.navbar-brand img{
+	height: 50px;
+	width: 100px;
+}
+.navbar-nav li a{
+	color: white;
+	font-size: 17px;
+}
+.navbar-nav li a:hover{
+	color:orange;
+}
+
+.cont{
+	background-color: black!important;
+}
+.container-fluid{
+	padding: 0px;
+	margin: 0px;
+	background-color: black;
+}
+.container-fluid h6{
+	margin-left: 70px;
+}
+.btn img{
+	height: 500px!important;
+	width:340px!important;
+
+}
+a{
+	text-decoration: none!important
+}
+.content {
+	padding-top: 20%;
+	height: 700px;
+	width: 100%;
+	background-image: url(https://m.media-amazon.com/images/M/MV5BMTcyMTQzMDIwNl5BMl5BanBnXkFtZTgwMTY1NjgzMzI@._V1_.jpg);
+    background-size: cover;
+}
+
+form{
+	margin-top: 70px;
+}
+form .form-control{
+
+	background-color: black!important;
+}
+.icon img{
+	height: 50px;
+	width: 50px;
+}
+.icon img:hover{
+	opacity: 0.3;
+}
